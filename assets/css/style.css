@@ -1,0 +1,101 @@
+	body{
+	margin:0;
+	color:#333333;
+	font-family: arial, sans-serif;
+    font-size: 18px;}
+	
+	img{width: 100%;}
+	p{margin: 0;padding: 20px 15px 15px 15px;}
+		
+	/*! hop chua noi dung load trang hien thi */
+	.container-1{ 
+	width:100%;
+	background:#191919;}
+	
+	/*! hop chua noi dung tai sau */
+	.container-2{
+	width:100%;
+	background:rgb(236, 236, 238);}
+
+	/*! hop chua noi dung gioi han kich thuoc */
+	.row {
+    max-width: 900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+	
+	/*! hop nen trong suot*/
+	.box{
+	width:100%;}	
+	
+	.box-1{
+	background-color: rgb(255, 255, 255);
+    max-width: 100%;
+    padding: 5px 10px;
+    border-color: rgb(197, 21, 21);
+    border-width: 2px;
+    border-style: dashed;}
+	
+	.box-2{
+    max-width: 100%;
+    padding: 20px 25px 15px;
+    border-color: rgb(76, 162, 25);
+    border-width: 3px;
+    border-style: dashed;}
+	
+	.center{text-align:center;}
+	
+	.text-white{color:#ffffff;}
+	.text-green-1{color:#a6e637;}
+	.text-green-2{color:#3db22e;}
+	.text-red{color:#d5203a;}
+	
+	.bg-green{background:#3db22e;}
+	.bg-red{background:#d5203a;}
+	.bg-1{background:rgb(243, 235, 235)}
+	
+	.u{text-decoration: underline;}
+	.b{font-weight: bold;}
+	
+	.font20{font-size:20px;}
+	.font25{font-size:25px;}
+
+	.pad-10{padding:10px;}
+	.pad-15{padding:15px;}
+	.pad-20{padding:20px;}
+	
+	.pad-1{padding: 11px 40px;border-radius: 11px;border-color: rgb(50, 134, 0);}	
+		
+	.list-1 li{
+	padding: 0 0 25px 55px;
+	list-style: none;
+    background: url(../img/check-green.png) no-repeat top left;}
+	
+	.list-2 li{
+	padding: 0 0 25px 35px;
+	list-style: none;
+    background: url(../img/lightbulb.png) no-repeat top left;}
+	
+	.list-3 li{
+	padding: 0 0 25px 35px;
+	list-style: none;
+    background: url(../img/check-circle-green.png) no-repeat top left;}
+	
+	.list-4 li{
+	padding: 0 0 25px 35px;
+	list-style: none;
+    background: url(../img/cross.png) no-repeat top left;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
